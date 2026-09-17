@@ -1,0 +1,2 @@
+LAB1_PASS seg_decoder cases=16
+$finish called at time : 160 ns : File "C:/Users/sumin/lab1_10_seven_segment/sim/tb_seg_decoder.sv" Line 34

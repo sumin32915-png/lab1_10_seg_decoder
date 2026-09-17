@@ -8,3 +8,9 @@
 .DS_Store
 Thumbs.db
 # reports/와 evidence/의 사진·파형·로그는 학생 제출 자료이므로 무시하지 않습니다.
+# Vivado 자동 생성 프로젝트 폴더 제외
+*.runs/
+*.sim/
+*.cache/
+*.hw/
+*.ip_user_files/

@@ -1,0 +1,9 @@
+[1] PASS 로그
+RUN C:\msys64\mingw64\bin\vvp.EXE -N C:\Users\sumin\lab1_10_seven_segment\build\sim\run-490f7949ffc64e35883e16949fe73156\sim.vvp
+VCD info: dumpfile wave.vcd opened for output.
+LAB1_PASS seg_decoder cases=16
+C:\Users\sumin\lab1_10_seven_segment\sim\tb_seg_decoder.sv:34: $finish called at 160000 (1ps)
+
+[2] FAIL 로그
+FATAL: C:\Users\sumin\lab1_10_seven_segment\sim\tb_seg_decoder.sv:29: FAIL seg_decoder vector=0 expected=fc actual=60
+       Time: 10000  Scope: tb_seg_decoder
